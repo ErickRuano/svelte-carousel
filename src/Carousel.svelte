@@ -79,7 +79,7 @@
 </style>
 
 <script>
-	import Siema from 'siema'
+	import Siema from '@erickruano/siema'
 	import { onMount, createEventDispatcher } from 'svelte'
 	
 	export let perPage = 3
